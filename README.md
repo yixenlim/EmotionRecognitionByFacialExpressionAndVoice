@@ -2,8 +2,11 @@
  Final year project
  
  Name: Lim Yixen
+ 
  Supervisor name: Ng Kok Why
+ 
  University: Multimedia University
+ 
  Topic: Emotion recognition by facial expression and voice
  
  Proposed methods:
